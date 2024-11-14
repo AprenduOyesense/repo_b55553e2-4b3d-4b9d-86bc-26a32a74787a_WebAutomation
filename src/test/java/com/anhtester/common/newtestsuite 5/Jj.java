@@ -1,5 +1,7 @@
 package com.yourpackage.tests;
 
+//comment here is intended
+
 import org.openqa.selenium.WebDriver;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
